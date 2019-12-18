@@ -7,3 +7,12 @@ Interesting that the <CR> return had not effect.  This text is being displayed a
   <h2> are there any header defaults?</h2>
 <P>
   <h3>yes, there are so we are going to use some for smaller text</h3>
+<P>
+  This place needs a little someting. Lets try an image.
+
+## medium header
+:+1
+- a list
+- yes a list
+
+How about `git status` or `git add` or `git commit`
