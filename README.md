@@ -18,7 +18,7 @@ Interesting that the <CR> return had not effect.  This text is being displayed a
 How about `git status` or `git add` or `git commit`
 
 So GitHub Readme.md uses Markdown and this is the syntaxt to add an image
-![DocumentDB](https://github.com/billdoering/hello-world/blob/docdb_logo.jpg)
+![DocumentDB](https://github.com/billdoering/hello-world/blob/master/docdb_logo.jpg)
 
 Don't forget about quoting text
 > Four score and seven years ago
